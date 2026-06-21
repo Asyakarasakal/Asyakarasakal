@@ -6,14 +6,19 @@ I develop games and interactive experiences using Unreal Engine, Unity, and Godo
 
 ## Skills
 
-* Unreal Engine 5
-* Unity
-* Godot Engine
-* Blender
-* C++
-* C#
-* Java
-* Python
+Unreal Engine 5
+Unity
+Godot Engine
+Blender
+Figma
+Adobe Photoshop
+Adobe Illustrator
+Adobe After Effects
+Adobe Premiere Pro
+C++
+C#
+Java
+Python
 
 ## Projects
 
