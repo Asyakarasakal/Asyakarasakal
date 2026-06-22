@@ -6,20 +6,23 @@ I create game projects, level designs, 3D environments, and digital experiences 
 
 ## Skills
 
-* Unreal Engine 5
-* Unity
-* Godot Engine
-* Blender
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Premiere Pro
-* Adobe After Effects
-* 2D Illustration
-* C++
-* C#
-* Java
-* Python
+- Unreal Engine 5
+- Unity
+- Godot Engine
+- Blender
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe After Effects
+- Procreate
+- Krita
+- Aseprite
+- 2D Illustration
+- C++
+- C#
+- Java
+- Python
 
 ## Projects
 
