@@ -26,9 +26,11 @@ I create game projects, level designs, 3D environments, and digital experiences 
 
 ## Projects
 
-* Unreal Engine FPS & TPS Games
-* Unreal Engine Level Design Projects
-* Unity FPS & TPS Games
-* Godot 2D & 3D Platformer Games
-* Blender 3D Modeling Portfolio
-* 2D Illustration & Concept Art
+- Unreal TPS Action-Adventure Game
+- Unreal Engine Level Design Portfolio
+- Unity FPS Adventure Game
+- Godot 3D Platformer Game
+- Godot 2D Platformer Game
+- Blender 3D Modeling Portfolio
+- 2D Illustration & Concept Art
+- Motion Graphics & Video Editing
