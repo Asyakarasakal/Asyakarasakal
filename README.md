@@ -2,7 +2,7 @@
 
 🎮 Digital Game Design & Computer Engineering Student at Istanbul Bilgi University.
 
-I develop games and interactive experiences using Unreal Engine, Unity, and Godot. I also create level designs, UI mockups, digital artwork, and video content using Blender, Figma, and Adobe Creative Suite.
+I create game projects, level designs, 3D environments, and digital experiences using Unreal Engine, Unity, and Godot. My portfolio includes gameplay systems, environment design, 3D modeling, 2D artwork, UI/UX concepts, motion graphics, and video production created with Blender, Figma, and Adobe Creative Cloud.
 
 ## Skills
 
