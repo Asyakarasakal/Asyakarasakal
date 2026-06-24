@@ -4,29 +4,31 @@
 
 I create game projects, level designs, 3D environments, and digital experiences using Unreal Engine, Unity, and Godot. My portfolio includes gameplay systems, environment design, 3D modeling, 2D artwork, UI/UX concepts, motion graphics, and video production created with Blender, Figma, and Adobe Creative Cloud.
 
-Game Engines
-• Unreal Engine 5
-• Unity
-• Godot Engine
+## Skills
 
-3D & Design
-• Blender
-• Figma
-• Aseprite
-• Krita
-• Procreate
+### Game Engines
+- Unreal Engine 5
+- Unity
+- Godot Engine
 
-Adobe
-• Photoshop
-• Illustrator
-• Premiere Pro
-• After Effects
+### 3D & Design
+- Blender
+- Figma
+- Aseprite
+- Krita
+- Procreate
 
-Programming
-• C++
-• C#
-• Java
-• Python
+### Adobe
+- Photoshop
+- Illustrator
+- Premiere Pro
+- After Effects
+
+### Programming
+- C++
+- C#
+- Java
+- Python
 
 ## Projects
 
