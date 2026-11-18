@@ -2,42 +2,41 @@
 
 🎮 Digital Game Design & Computer Engineering Student at Istanbul Bilgi University.
 
-I create game projects, level designs, 3D environments, and digital experiences using Unreal Engine, Unity, and Godot. My portfolio includes gameplay systems, environment design, 3D modeling, 2D artwork, UI/UX concepts, motion graphics, and video production created with Blender, Figma, and Adobe Creative Cloud.
+I focus on game development, gameplay programming, and interactive experiences. I work with Unreal Engine, Unity, and Godot, developing projects that combine creative game design with technical implementation.
+
+My portfolio includes gameplay prototypes, game mechanics, level design, interactive systems, and software development projects.
 
 ## Skills
 
-### Game Engines
+### Game Engines & Development
 - Unreal Engine 5
 - Unity
 - Godot Engine
 
-### 3D & Design
-- Blender
-- Figma
-- Aseprite
-- Krita
-- Procreate
-
-### Adobe
-- Photoshop
-- Illustrator
-- Premiere Pro
-- After Effects
-
-### Programming
+### Programming Languages
 - C++
 - C#
 - Java
 - Python
 
+### Development Tools
+- Visual Studio
+- Git & GitHub
+- Blender
+- Figma
+
+## Portfolio
+- 💻 [GitHub – Game Development & Programming](https://github.com/Asyakarasakal)
+- 🎨 [ArtStation – 3D Modeling, Environment Art & Concept Art](https://www.artstation.com/asyakarasakal)
+
 ## Projects
 
-- Unreal TPS Action-Adventure Game
-- Unreal Engine Level Design Portfolio
+- Unreal Engine TPS Action-Adventure Game
+- Unreal Engine Level Design Projects
 - Unity FPS Adventure Game
 - Unity 3D Strategy Game
+- Unity 3D Object-Matching Puzzle Game
 - Godot 3D Platformer Game
 - Godot 2D Platformer Game
-- Blender 3D Modeling Portfolio
-- 2D Illustration & Concept Art
-- Motion Graphics & Video Editing
+- Gameplay Mechanics & Prototypes
+- Software Development & Data Structures Projects
