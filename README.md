@@ -25,10 +25,6 @@ My portfolio includes gameplay prototypes, game mechanics, level design, interac
 - Blender
 - Figma
 
-## Portfolio
-- 💻 [GitHub – Game Development & Programming](https://github.com/Asyakarasakal)
-- 🎨 [ArtStation – 3D Modeling, Environment Art & Concept Art](https://www.artstation.com/asyakarasakal)
-
 ## Projects
 
 - Unreal Engine TPS Action-Adventure Game
